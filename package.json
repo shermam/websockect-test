@@ -1,0 +1,17 @@
+{
+  "name": "server-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "bin": {
+    "stest": "./index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Shermam Miranda",
+  "license": "ISC",
+  "dependencies": {
+    "websocket": "^1.0.26"
+  }
+}
